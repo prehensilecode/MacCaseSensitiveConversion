@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 
 gLowerCaseTable = [
 	# High-byte indices ( == 0 iff no case mapping and no ignorables )
